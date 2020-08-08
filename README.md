@@ -39,6 +39,10 @@ Open the emulator of your choice and then run:
 ## API Reference
 * OpenWeather API
 
+## Demo
+
+[![](http://img.youtube.com/vi/Dt0hijVng3U/0.jpg)](http://www.youtube.com/watch?v=Dt0hijVng3U "")
+
 ## How to use
 
 You can download the Android apk of the project from here:
