@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:http/http.dart' as http;
 
 const String url = 'https://api.openweathermap.org/data/2.5/weather';
-const apiKey = '3f80cb3da0d16fc1693120c4b31b42ad';
+const apiKey = *your OpenWeatherApi key here*;
 
 class WeatherData {
 
